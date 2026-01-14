@@ -1,2 +1,2 @@
-# ch-tiktok-insights
-Private legal pages + callback for CH TikTok Insights app
+# CH Content Analytics
+Private legal pages + callback for CH Content Analytics app
